@@ -1,2 +1,1 @@
-export class Language {
-}
+export {};

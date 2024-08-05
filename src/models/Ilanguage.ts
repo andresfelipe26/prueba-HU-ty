@@ -1,1 +1,3 @@
-export class Language {}
+export interface Language {
+    language: string
+}
